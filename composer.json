@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-s3",
+    "name": "droidlabour/flysystem-s3",
     "description": "Flysystem adapter for the AWS S3 SDK v3.x",
     "license": "MIT",
     "authors": [
